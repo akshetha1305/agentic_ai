@@ -1,0 +1,31 @@
+CITY GENERAL HOSPITAL (SYNTHETIC DEMO DOCUMENT - NOT A REAL PATIENT)
+DISCHARGE SUMMARY
+
+Patient ID: SYN-3003
+Patient Name: Test Patient Three (synthetic)
+Age/Sex: 42 / Male
+Department: Orthopaedics
+Admission Date: 18/03/2025
+Discharge Date: 21/03/2025
+
+Diagnosis:
+Right wrist fracture
+
+Procedure:
+Surgical fixation of the right wrist under regional anaesthesia. Recovery was uneventful.
+
+Follow-up Appointment:
+Orthopaedics OPD, Room 4, on 04/04/2025 at 11:00 AM.
+
+Discharge Medications:
+1. Tab Paracetamol 500 mg - 1 tablet three times daily for 5 days
+2. Cap Pantoprazole 40 mg - 1 capsule once daily before breakfast
+
+Medication Changes:
+No changes to home medications.
+
+Patient Instructions:
+Take care of the wound. Do the exercises as advised. Rest as needed.
+
+Responsible Clinician:
+Dr. Rohan Verma, Consultant Orthopaedic Surgeon (Reg. No. SYN-REG-3310)

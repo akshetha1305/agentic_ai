@@ -1,0 +1,37 @@
+CITY GENERAL HOSPITAL (SYNTHETIC DEMO DOCUMENT - NOT A REAL PATIENT)
+DISCHARGE SUMMARY
+
+Patient ID: SYN-1001
+Patient Name: Test Patient One (synthetic)
+Age/Sex: 58 / Male
+Department: General Medicine
+Admission Date: 04/03/2025
+Discharge Date: 09/03/2025
+
+Diagnosis:
+Community acquired pneumonia
+
+Hospital Course:
+Patient was admitted with fever and cough. Managed on the medical ward and discharged in a stable condition.
+
+Follow-up Appointment:
+General Medicine OPD, Room 12, on 20/03/2025 at 10:30 AM with Dr. Anil Menon.
+
+Pending Investigations:
+Sputum culture - report to be collected from the laboratory at the OPD visit on 20/03/2025 (responsible: Dr. Anil Menon).
+
+Discharge Medications:
+1. Tab Amoxicillin-Clavulanate 625 mg - 1 tablet three times daily for 5 days
+2. Tab Paracetamol 500 mg - 1 tablet when required for fever (maximum 4 tablets in 24 hours)
+3. Tab Pantoprazole 40 mg - 1 tablet once daily before breakfast
+
+Medication Changes:
+Pantoprazole 40 mg added at discharge. No other changes to home medications.
+
+Patient Instructions:
+- Complete the full course of the prescribed medicines.
+- Drink plenty of fluids and rest at home for one week.
+- Return to the Emergency Department or contact the ward helpline (ext. 2210) if breathlessness or fever returns.
+
+Responsible Clinician:
+Dr. Anil Menon, Consultant Physician (Reg. No. SYN-REG-5501)

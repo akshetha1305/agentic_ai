@@ -1,0 +1,31 @@
+CITY GENERAL HOSPITAL (SYNTHETIC DEMO DOCUMENT - NOT A REAL PATIENT)
+DISCHARGE SUMMARY
+
+Patient ID: SYN-2002
+Patient Name: Test Patient Two (synthetic)
+Age/Sex: 64 / Female
+Department: Cardiology
+Admission Date: 11/03/2025
+Discharge Date: 15/03/2025
+
+Diagnosis:
+Chest discomfort - cardiac evaluation
+
+Hospital Course:
+Patient was admitted with chest discomfort. Monitored in the cardiac care unit and discharged in a stable condition.
+
+Pending Investigations:
+Echocardiography report - pending, to be collected from the Cardiology OPD front desk.
+
+Discharge Medications:
+1. Tab Aspirin 75 mg - 1 tablet once daily after lunch
+2. Tab Atorvastatin 20 mg - 1 tablet once daily at night
+3. Tab Metoprolol 25 mg - 1 tablet twice daily
+
+Patient Instructions:
+- Take all medicines at the times written on the prescription.
+- Avoid strenuous physical activity until the doctor says otherwise.
+- Come to the Emergency Department if chest discomfort returns.
+
+Responsible Clinician:
+Dr. Priya Nair, Consultant Cardiologist (Reg. No. SYN-REG-7782)
