@@ -1,0 +1,71 @@
+DischargeCheck – Documentation Completeness Checklist
+=====================================================
+
+Purpose
+-------
+This checklist is for checking whether discharge documentation contains
+the expected information. It does NOT interpret clinical content, assess
+whether treatment is correct, or suggest medical decisions.
+
+Use only synthetic or properly de-identified documents for testing.
+
+Document-level checks
+---------------------
+
+1. Document identification
+   [ ] A document/reference ID is present.
+   [ ] The document type is identifiable (for example, discharge summary).
+
+2. Follow-up appointments
+   [ ] Follow-up plan is documented.
+   [ ] Date or timeframe is stated, if applicable.
+   [ ] Time and location/provider are stated, if applicable.
+   [ ] If no appointment is required, this is explicitly documented.
+
+3. Pending investigations / test results
+   [ ] Pending investigations or results are listed, if any.
+   [ ] If none are pending, this is explicitly documented.
+   [ ] A responsible team/person for reviewing pending results is named,
+       when applicable.
+   [ ] A communication or follow-up plan is documented, when applicable.
+
+4. Medication documentation
+   [ ] A medication list is present, if applicable.
+   [ ] Medication changes are described (started, stopped, or changed),
+       when applicable.
+   [ ] If there are no medication changes, this is explicitly documented.
+   [ ] The agent copies medication wording as written and does not interpret it.
+
+5. Patient instructions
+   [ ] Patient instructions are present.
+   [ ] The document identifies where the patient can direct questions,
+       if this is required by the local checklist.
+   [ ] Any required return/contact instructions are present.
+
+6. Document clarity
+   [ ] Required sections are readable.
+   [ ] No obvious contradiction exists between repeated documentation fields.
+   [ ] Unreadable or uncertain text is marked for human review.
+
+Report rules
+------------
+- Mark each check as: PRESENT, MISSING, UNCLEAR, or NOT APPLICABLE.
+- Quote or point to the relevant text as evidence when possible.
+- Do not infer missing information.
+- Do not decide whether a medication, test, or follow-up plan is clinically
+  appropriate.
+- Flag unclear or conflicting documentation for the responsible clinician.
+- A human clinician remains responsible for reviewing and correcting the record.
+
+Department dashboard ideas
+--------------------------
+- Number of documents reviewed.
+- Count of PRESENT, MISSING, UNCLEAR, and NOT APPLICABLE checks.
+- Most frequently missing documentation sections.
+- Documents awaiting human review.
+
+Configuration note
+------------------
+Hospitals may use different documentation requirements. This sample checklist
+is a prototype and must be adapted and approved by the hospital's quality
+team before any real-world use.
