@@ -1,0 +1,64 @@
+DischargeCheck – Synthetic Sample Discharge Document
+=====================================================
+
+TRAINING SAMPLE ONLY – NOT A REAL PATIENT RECORD
+Document ID: DEMO-DC-001
+Document type: Discharge summary
+Patient: TEST PATIENT
+Synthetic record number: SYNTH-0001
+Discharge date: 18 November 2026
+Department: Demonstration Unit
+
+Reason for admission
+--------------------
+[Example text omitted. This sample is for testing documentation extraction,
+not for clinical interpretation.]
+
+Hospital course
+---------------
+[Example narrative omitted.]
+
+Follow-up
+---------
+Follow-up with the department after discharge.
+
+NOTE FOR TESTING: No specific follow-up date, time, or location is provided.
+A documentation checker should flag the missing details if required by the
+hospital checklist. It must not invent them.
+
+Pending investigations / results
+---------------------------------
+One investigation result is pending at the time this sample was prepared.
+
+NOTE FOR TESTING: The responsible person/team and the plan for reviewing or
+communicating the result are not documented. A documentation checker should
+flag these fields as missing or unclear if required by the checklist.
+
+Medication list (wording copied as written)
+--------------------------------------------
+[Medication entry exactly as written in source document]
+[Additional medication entry exactly as written in source document]
+
+Medication changes
+------------------
+Medication changes are not clearly described in this sample.
+
+NOTE FOR TESTING: The checker should flag the documentation as unclear. It
+must not guess which medicines were started, stopped, or changed.
+
+Patient instructions
+--------------------
+General discharge instructions provided.
+
+NOTE FOR TESTING: The specific instruction content is not included in this
+synthetic sample. A checker should flag the section for human review if the
+local checklist requires more detail.
+
+End of synthetic sample
+-----------------------
+This document intentionally contains incomplete or unclear sections so the
+DischargeCheck prototype can demonstrate completeness checks.
+
+Do not use this sample for patient care, clinical decisions, or real medical
+records. Do not enter real patient identifiers or sensitive health information
+into a demo repository.
